@@ -1,0 +1,7 @@
+PONTO_DE_VISTA----------------->/5,5,5
+PONTOS_PLANO------------------->/1,0,0/0,0,0/0,1,0
+NUMERO_VERTICES---------------->/8
+COORDENADAS_VERTICES----------->/0,0,1/1,0,1/1,0,0/0,0,0/0,1,1/1,1,1/1,1,0/0,1,0
+NUMERO_SUPERFICIES------------->/6
+NUMERO_VERTICES_POR_SUPERFICIE->/4/4/4/4/4/4
+VERTICES_SUPERFICIE------------>/0,1,5,4/1,2,6,5/2,6,7,3/3,7,4,0/5,6,7,4/0,1,2,3

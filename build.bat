@@ -7,11 +7,11 @@ cls
 :: Cleaning all the pre-existing .class files
 del *.class
 
-:: Compiling main.java (this creates a main.class file)
-javac main.java
+:: Compiling all *.java files
+javac *.java
 
 :: Run main.class
 java main
 
 :: Cleaning the terminal again
-cls
+:: cls
