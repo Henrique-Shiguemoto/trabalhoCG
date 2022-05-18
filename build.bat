@@ -12,6 +12,3 @@ javac *.java
 
 :: Run main.class
 java main
-
-:: Cleaning the terminal again
-:: cls
